@@ -1,4 +1,4 @@
-## Hi there 👋 I'm João Louko
+## Hi there 👋 I'm John
 
 I'm a passionate web developer who loves turning ideas into code — especially using **JavaScript** and **React** ⚛️.
 
