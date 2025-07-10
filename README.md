@@ -6,7 +6,7 @@ I'm a passionate web developer who loves turning ideas into code — especially 
 
 - 💻 Frontend enthusiast, always exploring new ways to build interactive UIs
 - 🛠️ Skilled in **React**, **TypeScript**, **TailwindCSS**, **Node.js**, and more
-- 🎓 Currently studying **Computation science**
+- 🎓 Currently majoring **Computer science** 
 - 📈 Constantly learning and improving — coding is both my job and my hobby
 
 ### 💡 What I Like to Build
@@ -24,7 +24,7 @@ I'm a passionate web developer who loves turning ideas into code — especially 
 ### 📫 Let's Connect
 
 - GitHub: [joaolouko](https://github.com/joaolouko)
-- Email: joaopiresmachadonunes@gmail.com *(or replace with your preferred contact)*
+- Email: joaopiresmachadonunes@gmail.com 
 
 ---
 
