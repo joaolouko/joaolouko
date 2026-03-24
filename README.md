@@ -5,7 +5,7 @@ I'm a passionate software engineer who loves turning ideas into scalable and int
 ---
 
 ### 🚀 About Me
-
+- 🧑‍💼 Co-owner at @MoonlightFin  
 - 💻 Full Stack Software Engineer with a strong focus on backend development  
 - 🛠️ Skilled in **C#**, **.NET**, **Postgres**, **Node.js**, **React**, **TypeScript**, and **TailwindCSS**  
 - 🎓 Currently majoring in **Computer Science**  
