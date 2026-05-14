@@ -51,7 +51,7 @@ I'm a passionate software engineer who loves turning ideas into scalable and int
 ### 📫 Let's Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaolouko-181717?style=for-the-badge&logo=github)](https://github.com/joaolouko)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pires%20Machado%20Nunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pires-088452211/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pires-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pires-088452211/)  
 [![Email](https://img.shields.io/badge/Email-joaopiresmachadonunes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopiresmachadonunes@gmail.com)  
 
 ---
